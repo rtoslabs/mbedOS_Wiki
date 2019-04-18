@@ -1,4 +1,4 @@
-# # Welcome to the mbedOS Wiki
+# Welcome to the mbedOS Wiki
 
 ### Contents:
 
