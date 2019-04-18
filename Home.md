@@ -1,3 +1,3 @@
-# # Welcome to the mbedOS_Wiki wiki!
+# # Welcome to the mbedOS Wiki
 
 [MbedOS Bootstrap](https://github.com/poppinsahu/mbedOS_Wiki/wiki/MbedOS-BootStrap-Code-Flow)
